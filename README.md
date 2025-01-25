@@ -6,4 +6,4 @@
 
 # Resources
 - Using HTML5/CSS3 for design and framework.
-- Using JavaScript for functionality -> potentially might just React.js
+- Using JavaScript for functionality -> potentially might use React.js
